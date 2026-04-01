@@ -8,7 +8,7 @@ I enjoy building practical projects and continuously learning new technologies t
 
 My goal is to become a skilled web developer and build impactful digital solutions while maintaining strong academic performance.
 
-Skills: C /C++ /Java  / REACT / JavaScript / HTML / CSS
+Skills: C /C++ /Java  / REACT / JavaScript / HTML / CSS /Tailwind 
 
 - 🔭 I’m currently working on Student  
 - 🌱 I’m currently learning Java/JavaScript  
