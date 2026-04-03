@@ -23,8 +23,7 @@ Skills: C /C++ /Java  / REACT / JavaScript / HTML / CSS /Tailwind
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minhajul43)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Minhajul43&show_icons=true&count_private=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Minhajul43/contributions?format=svg&private=true)  
+  
 
 ![GitHub metrics](https://metrics.lecoq.io/Minhajul43)  
 
