@@ -23,10 +23,11 @@ Skills: C /C++ /Java  / REACT / JavaScript / HTML / CSS /Tailwind
 ### 📊 My GitHub Stats
 ![Profile Views](https://komarev.com/ghpvc/?username=Minhajul43&color=0e75b6&style=flat&label=Profile+Views)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Minhajul43&layout=compact&theme=dark&hide_border=true&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Minhajul43&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Minhajul43&show_icons=true&count_private=true&theme=dark&hide_border=true&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Minhajul43&show_icons=true&count_private=true&theme=tokyonight&hide_border=true)
 
-![Profile Visitors](https://profile-counter.glitch.me/Minhajul43/count.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=Minhajul43&color=0e75b6&style=flat&label=Profile+Views)
+
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Minhajul43)  
 
