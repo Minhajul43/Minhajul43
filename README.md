@@ -14,6 +14,7 @@ Skills: C /C++ /Java  / REACT / JavaScript / HTML / CSS /Tailwind
 - 🌱 I’m currently learning Java/JavaScript  
 - 👯 I’m looking to collaborate on GitHub 
   
+[![Top Langs](https://vercel.app/Minhajul43&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Minhajul43)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Minhajul43/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Minhajul.43)  
