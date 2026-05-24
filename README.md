@@ -1,6 +1,5 @@
 # Assalamualaikum , I am Minhajul Islam.
 ## A Student of Jagannath University and Web Developer .
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FMinhajul.43%2Fposts%2F980460351352200%3A980460351352200&show_text=true&width=500" width="500" height="354" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 I am a passionate Computer Science and Engineering student at Jagannath University, Dhaka, currently in my second year. I have a strong interest in web development and programming. I have experience with C, C++, HTML, CSS, and JavaScript, and I am currently improving my skills through the Programming Hero web development course.
 
