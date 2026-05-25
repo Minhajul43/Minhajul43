@@ -1,6 +1,3 @@
-# Assalamualaikum , I am Minhajul Islam.
-## A Student of Jagannath University and Web Developer .
-
 # <img src="https://raw.githubusercontent.com/Minhajul43/Minhajul43/main/Wave.gif" width="30px"> Hello, I'm Minhajul Islam
 
 <div align="center">
@@ -201,5 +198,4 @@ I'm a passionate **Computer Science and Engineering student** at Jagannath Unive
   
 </div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Minhajul43&color=0e75b6&style=flat&label=Profile+Views)
 
