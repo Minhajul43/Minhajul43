@@ -6,12 +6,13 @@
 
 ---
 
-## 🎯 About Me            <p align="center">
-  <a href="[OUR_GOOGLE_DRIVE_LINK](https://drive.google.com/file/d/1orYOYSQ5Wp5NIRrkz-JYgL4SrW0rGEeR/view?usp=drive_link)" target="_blank">
-    <button>📄 Download CV</button>
-  </a>
-</p>
+## 🎯 About Me            <div align="center">
 
+<a href="https://drive.google.com/uc?export=download&id=1orYOYSQ5Wp5NIRrkz-JYgL4SrW0rGEeR" target="_blank">
+  <img src="https://img.shields.io/badge/⬇️%20Download%20CV-Resume-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=0D1117" alt="Download CV"/>
+</a>
+
+</div>
 ```javascript
 const Minhajul = {
   name: "Minhajul Islam",
