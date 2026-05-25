@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/Minhajul43/Minhajul43/main/Wave.gif" width="30px"> Hello, I'm Minhajul Islam
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=💻+Full+Stack+Web+Developer;🎓+CSE+Student+at+Jagannath+University;🚀+Building+Digital+Solutions;📚+Passionate+About+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=💻+Want+To+Full+Stack+Web+Developer;🎓+CSE+Student+at+Jagannath+University;🚀+Building+Digital+Solutions;📚+Passionate+About+Learning" alt="Typing SVG" />
 </div>
 
 ---
