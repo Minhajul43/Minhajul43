@@ -6,7 +6,10 @@
 
 ---
 
-## 🎯 About Me
+## 🎯 About Me             <p align="center">
+  <a href="Y[OUR_GOOGLE_DRIVE_LINK](https://drive.google.com/file/d/1orYOYSQ5Wp5NIRrkz-JYgL4SrW0rGEeR/view?usp=drive_link)" target="_blank"><img src="https://img.shields.io/badge/Download%20CV-Click%20Here-blue?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Download CV"/>
+  </a>
+</p> 
 
 ```javascript
 const Minhajul = {
