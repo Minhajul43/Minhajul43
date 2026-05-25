@@ -66,18 +66,6 @@ I'm a passionate **Computer Science and Engineering student** at Jagannath Unive
   
 </div>
 
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Minhajul43&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&text_color=58A6FF&icon_color=00D9FF&title_color=00D9FF&border_radius=10)
-  
-</div>
-
-  
-  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minhajul43&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-  
-</div>
 
 <div align="center">
   
