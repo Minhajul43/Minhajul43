@@ -5,15 +5,19 @@
 </div>
 
 ---
+<div align="center">
 
-## 🎯 About Me            <div align="center">
+<a href="https://drive.google.com/uc?export=download&id=1orYOYSQ5Wp5NIRrkz-JYgL4SrW0rGEeR">
 
-<a href="https://drive.google.com/uc?export=download&id=1orYOYSQ5Wp5NIRrkz-JYgL4SrW0rGEeR" target="_blank">
-  <img src="https://img.shields.io/badge/⬇️%20Download%20CV-Resume-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=0D1117" alt="Download CV"/>
+<img src="https://img.shields.io/badge/📄%20Download%20CV-Click%20to%20Download-FF6B00?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=0D1117" />
+
 </a>
 
 </div>
-```javascript
+
+## 🎯 About Me          
+```
+javascript
 const Minhajul = {
   name: "Minhajul Islam",
   title: "Web Developer & CSE Student",
