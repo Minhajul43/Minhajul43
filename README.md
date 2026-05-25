@@ -74,7 +74,9 @@ I'm a passionate **Computer Science and Engineering student** at Jagannath Unive
 
 <div align="center">
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Minhajul43&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=58a6ff)
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minhajul43&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
   
 </div>
 
