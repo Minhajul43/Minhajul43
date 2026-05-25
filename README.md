@@ -5,15 +5,11 @@
 </div>
 
 ---
-<div align="center">
-
-<a href="https://drive.google.com/uc?export=download&id=1orYOYSQ5Wp5NIRrkz-JYgL4SrW0rGEeR">
-
-<img src="https://img.shields.io/badge/📄%20Download%20CV-Click%20to%20Download-FF6B00?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=0D1117" />
-
-</a>
-
-</div>
+<p align="center">
+  <a href="https://drive.google.com/uc?export=download&id=1orYOYSQ5Wp5NIRrkz-JYgL4SrW0rGEeR">
+    <img src="https://img.shields.io/badge/⬇%20Download%20CV-Click%20Here-6C63FF?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=111827" alt="Download CV"/>
+  </a>
+</p>
 
 ## 🎯 About Me          
 ```
