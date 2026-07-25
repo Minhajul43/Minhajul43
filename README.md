@@ -85,6 +85,9 @@ I believe that
 
 | ⭐ Project | 📖 Description | 🛠 Tech Stack |
 |-----------|---------------|--------------|
+| [✨JavaScript Project](https://github.com/Minhajul43/github-issues-tracker) | here built a project for completing Programming Hero Assignment | JavaScript |
+| [Fun Project](https://github.com/Minhajul43/eid-salami) | Here creating funning project for my Junior in University | JavaScript |
+| [First Project](https://github.com/Minhajul43/Project-Fitness) | First project only using HTML & CSS | HTML & CSS |
 | [📚 Object Oriented Programming & DSA Library](https://github.com/Minhajul43/Object_Oriented_Programming_and_DSA_Library) | Collection of OOP and Data Structure implementations | C++ |
 | [📊 Excel Expert](https://github.com/Minhajul43/excel-expert) | Excel formulas, charts, pivot tables, and practice materials | Excel |
 | [📡 Data Communication Lab](https://github.com/Minhajul43/data_communication_lab_JnU_CSE) | MATLAB simulations and lab experiments | MATLAB |
