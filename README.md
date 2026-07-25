@@ -77,6 +77,27 @@ I believe that
 
 ---
 
+---
+
+# 🚀 Featured Projects
+
+> Here are some of my favorite repositories that showcase my learning journey and development skills.
+
+| ⭐ Project | 📖 Description | 🛠 Tech Stack |
+|-----------|---------------|--------------|
+| [📚 Object Oriented Programming & DSA Library](https://github.com/Minhajul43/Object_Oriented_Programming_and_DSA_Library) | Collection of OOP and Data Structure implementations | C++ |
+| [📊 Excel Expert](https://github.com/Minhajul43/excel-expert) | Excel formulas, charts, pivot tables, and practice materials | Excel |
+| [📡 Data Communication Lab](https://github.com/Minhajul43/data_communication_lab_JnU_CSE) | MATLAB simulations and lab experiments | MATLAB |
+| [⚡ Basic Electronics Lab](https://github.com/Minhajul43/basic_electronics_lab_JnUCSE) | LTSpice circuit simulations and electronics experiments | LTSpice |
+| [💻 C Programming Practice](https://github.com/Minhajul43/structure-language-C-problem) | C programming problems and solutions | C |
+| [Data-Structure](https://github.com/Minhajul43/Data-Stucture) | Here complete all data structure topic using C language | C |
+| [Java Programming](https://github.com/Minhajul43/oop-with-java-lab-jnucse) | Java Basic programming and also OOP topic Sequentially | Java |
+| [Learning Git & Github](https://github.com/Minhajul43/Git-github-Roadmap) | Complete Learning Pathways Git & Github using AI | AI |
+| [Java Problem](https://github.com/Minhajul43/java-traching-problem) | Practice and solve problem using Java language | Java |
+
+
+---
+
 # 🛠 Tech Stack
 
 ## 👨‍💻 Programming Languages
@@ -126,22 +147,7 @@ I believe that
 
 ---
 
----
 
-# 🚀 Featured Projects
-
-> Here are some of my favorite repositories that showcase my learning journey and development skills.
-
-| ⭐ Project | 📖 Description | 🛠 Tech Stack |
-|-----------|---------------|--------------|
-| [☕ JavaLoops](https://github.com/Minhajul43/JavaLoops) | Java loop examples for beginners with Git workflow practice | Java |
-| [📚 Object Oriented Programming & DSA Library](https://github.com/Minhajul43/Object_Oriented_Programming_and_DSA_Library) | Collection of OOP and Data Structure implementations | C++ |
-| [📊 Excel Expert](https://github.com/Minhajul43/excel-expert) | Excel formulas, charts, pivot tables, and practice materials | Excel |
-| [📡 Data Communication Lab](https://github.com/Minhajul43/data_communication_lab_JnU_CSE) | MATLAB simulations and lab experiments | MATLAB |
-| [⚡ Basic Electronics Lab](https://github.com/Minhajul43/basic_electronics_lab_JnUCSE) | LTSpice circuit simulations and electronics experiments | LTSpice |
-| [💻 C Programming Practice](https://github.com/Minhajul43/structure-language-C-problem) | C programming problems and solutions | C |
-
----
 
 # 📈 GitHub Analytics
 
