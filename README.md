@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/Minhajul43/Minhajul43/main/Wave.gif" width="35px"> Hello, I'm Minhajul Islam
+# <img src="https://raw.githubusercontent.com/Minhajul43/Minhajul43/main/Wave.gif" width="35px"> Assalamualikum, I'm Minhajul Islam
 
 <div align="center">
 
@@ -43,46 +43,7 @@ const minhajul = {
 
     country: "Bangladesh",
 
-    currentlyLearning: [
-
-        "Java",
-
-        "JavaScript",
-
-        "React",
-
-        "Git & GitHub",
-
-        "Node.js"
-
-    ],
-
-    interestedIn: [
-
-        "Web Development",
-
-        "Software Engineering",
-
-        "Open Source",
-
-        "Problem Solving"
-
-    ],
-
-    goal: "Become a Professional Full Stack Developer",
-
-    hobbies: [
-
-        "Coding",
-
-        "Learning",
-
-        "Teaching",
-
-        "Building Projects"
-
-    ]
-
+   
 }
 ```
 
@@ -138,25 +99,6 @@ I believe that
 
 ---
 
-## ⚙ Backend (Learning)
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-
-</p>
-
----
-
-## 🗄 Database (Learning)
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mongodb"/>
-
-</p>
-
----
 
 ## 🔧 Tools & Platforms
 
@@ -165,26 +107,6 @@ I believe that
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma"/>
 
 </p>
-
----
-
-# 📚 Currently Learning
-
-```text
-██████████████████████░░░░░░░  HTML            ████████████████████ 100%
-
-██████████████████████░░░░░░░  CSS             ████████████████████ 100%
-
-█████████████████░░░░░░░░░░░░  JavaScript      ███████████████░░░░ 75%
-
-███████████░░░░░░░░░░░░░░░░░░  React           █████████░░░░░░░░░░ 45%
-
-█████░░░░░░░░░░░░░░░░░░░░░░░░  Node.js         ███░░░░░░░░░░░░░░░░ 20%
-
-██░░░░░░░░░░░░░░░░░░░░░░░░░░░  Express.js      █░░░░░░░░░░░░░░░░░░ 10%
-
-██░░░░░░░░░░░░░░░░░░░░░░░░░░░  MongoDB         █░░░░░░░░░░░░░░░░░░ 10%
-```
 
 ---
 
@@ -201,22 +123,6 @@ I believe that
 - 🎯 Creating Professional Portfolio
 
 - 🤝 Preparing for Open Source Contribution
-
----
-
-# ⭐ Fun Facts
-
-- 💻 First Programming Language → **C**
-
-- ☕ Favorite Language → **Java**
-
-- 🌍 Dream Career → **Software Engineer**
-
-- ❤️ Love Building Real Projects
-
-- 📚 Learning Every Day
-
-- 🎯 Believe in Consistency
 
 ---
 
@@ -277,43 +183,6 @@ I believe that
 
 </div>
 
----
-
-# 📌 Repository Highlights
-
-<div align="center">
-
-<a href="https://github.com/Minhajul43/JavaLoops">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Minhajul43&repo=JavaLoops&theme=tokyonight"/>
-
-</a>
-
-<a href="https://github.com/Minhajul43/Object_Oriented_Programming_and_DSA_Library">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Minhajul43&repo=Object_Oriented_Programming_and_DSA_Library&theme=tokyonight"/>
-
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-<a href="https://github.com/Minhajul43/data_communication_lab_JnU_CSE">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Minhajul43&repo=data_communication_lab_JnU_CSE&theme=tokyonight"/>
-
-</a>
-
-<a href="https://github.com/Minhajul43/basic_electronics_lab_JnUCSE">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Minhajul43&repo=basic_electronics_lab_JnUCSE&theme=tokyonight"/>
-
-</a>
-
-</div>
 
 ---
 
@@ -359,16 +228,6 @@ I believe that
 
 ---
 
-# 🎯 Developer Mindset
-
-> 💡 **"First, solve the problem. Then, write the code."**  
-> — John Johnson
-
-> 🚀 **"Learning never exhausts the mind."**  
-> — Leonardo da Vinci
-
----
-
 ---
 
 # 🎓 Education
@@ -379,7 +238,7 @@ I believe that
 
 📍 Dhaka, Bangladesh
 
-- 🎓 Current Year: 2nd Year
+- 🎓 Current Year: 2nd Year 2nd Semester
 - 💻 Strong interest in Software Engineering
 - 📚 Focused on Programming, Data Structures, Algorithms, and Web Development
 
@@ -456,7 +315,7 @@ Full Stack Development      🎯 Goal
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/Minhajul43/">
+<a href="[https://www.linkedin.com/in/Minhajul43/](https://www.linkedin.com/in/minhajulislam43/)">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -464,13 +323,13 @@ Full Stack Development      🎯 Goal
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
-<a href="mailto:your.email@gmail.com">
+<a href="mailto:minhajul255685islam@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
-> ⚠️ Replace `your.email@gmail.com` with your real email address.
+> minhajul255685islam@gmail.com 
 
 ---
 
@@ -486,15 +345,7 @@ I'm always interested in:
 
 ---
 
-# 💡 Fun Facts
 
-- ☕ Coffee + Code = Productivity
-- 📖 I enjoy learning something new every day.
-- 💻 I love turning ideas into real applications.
-- 🌱 Continuous learning is my biggest strength.
-- 🎯 Small progress every day leads to big success.
-
----
 
 # ❤️ Support My Work
 
@@ -512,19 +363,6 @@ Every bit of support motivates me to build more useful projects.
 
 ---
 
-# 💬 Favorite Quotes
-
-> **"Code is like humor. When you have to explain it, it's bad."**
->
-> — Cory House
-
-<br>
-
-> **"Stay hungry. Stay foolish."**
->
-> — Steve Jobs
-
----
 
 # 📈 Visitor Counter
 
