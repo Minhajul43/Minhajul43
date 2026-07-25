@@ -1,151 +1,557 @@
-# <img src="https://raw.githubusercontent.com/Minhajul43/Minhajul43/main/Wave.gif" width="30px"> Hello, I'm Minhajul Islam
+# <img src="https://raw.githubusercontent.com/Minhajul43/Minhajul43/main/Wave.gif" width="35px"> Hello, I'm Minhajul Islam
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=💻+Want+To+Full+Stack+Web+Developer;🎓+CSE+Student+at+Jagannath+University;🚀+Building+Digital+Solutions;📚+Passionate+About+Learning" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=💻+Aspiring+Full+Stack+Web+Developer;🎓+Computer+Science+%26+Engineering+Student;🚀+Passionate+About+Building+Digital+Solutions;🌱+Always+Learning+New+Technologies;❤️+Open+Source+Enthusiast;⚡+Turning+Ideas+Into+Reality" alt="Typing SVG"/>
+
 </div>
 
 ---
+
 <p align="center">
-  <a href="https://drive.google.com/uc?export=download&id=1orYOYSQ5Wp5NIRrkz-JYgL4SrW0rGEeR">
-    <img src="https://img.shields.io/badge/⬇%20Download%20CV-Click%20Here-6C63FF?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=111827" alt="Download CV"/>
-  </a>
+
+<a href="https://drive.google.com/uc?export=download&id=1orYOYSQ5Wp5NIRrkz-JYgL4SrW0rGEeR">
+<img src="https://img.shields.io/badge/⬇️%20Download%20CV-Click%20Here-6C63FF?style=for-the-badge&logo=googledrive&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Minhajul43">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/Minhajul43/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
 </p>
 
-## 🎯 About Me          
+---
+
+# 👨‍💻 About Me
+
+```javascript
+const minhajul = {
+
+    name: "Minhajul Islam",
+
+    role: "Aspiring Full Stack Web Developer",
+
+    university: "Jagannath University",
+
+    department: "Computer Science & Engineering",
+
+    currentYear: "2nd Year",
+
+    country: "Bangladesh",
+
+    currentlyLearning: [
+
+        "Java",
+
+        "JavaScript",
+
+        "React",
+
+        "Git & GitHub",
+
+        "Node.js"
+
+    ],
+
+    interestedIn: [
+
+        "Web Development",
+
+        "Software Engineering",
+
+        "Open Source",
+
+        "Problem Solving"
+
+    ],
+
+    goal: "Become a Professional Full Stack Developer",
+
+    hobbies: [
+
+        "Coding",
+
+        "Learning",
+
+        "Teaching",
+
+        "Building Projects"
+
+    ]
+
+}
 ```
-javascript
-const Minhajul = {
-  name: "Minhajul Islam",
-  title: "Web Developer & CSE Student",
-  university: "Jagannath University, Dhaka",
-  year: "2nd Year",
-  passion: "Building Practical & Impactful Web Solutions",
-  currentFocus: "Full Stack Development",
-  education: "CSE | Web Development (Programming Hero)",
-  teaching: "Secondary & Intermediate Level Students"
-};
+
+---
+
+## 🚀 About Me
+
+I'm a passionate **Computer Science & Engineering student** at **Jagannath University, Dhaka**.
+
+I enjoy building practical software, exploring new technologies, and continuously improving my programming skills.
+
+Currently I'm focusing on becoming a **Professional Full Stack Web Developer** while maintaining strong academic performance.
+
+I believe that
+
+> **Consistency + Learning + Building Projects = Success**
+
+---
+
+# 🎯 Current Journey
+
+| 🔹 Status | Details |
+|-----------|---------|
+| 🎓 Education | B.Sc. in Computer Science & Engineering |
+| 💻 Current Focus | Full Stack Web Development |
+| 🌱 Learning | Java, JavaScript, React, Node.js |
+| 🚀 Building | Practical Projects & GitHub Portfolio |
+| 🤝 Collaboration | Open Source & Team Projects |
+| 📚 Teaching | Secondary & Intermediate Students |
+| 🎯 Goal | Software Engineer |
+
+---
+
+# 🛠 Tech Stack
+
+## 👨‍💻 Programming Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js"/>
+
+</p>
+
+---
+
+## 🎨 Frontend Development
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,vite"/>
+
+</p>
+
+---
+
+## ⚙ Backend (Learning)
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+
+</p>
+
+---
+
+## 🗄 Database (Learning)
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+
+</p>
+
+---
+
+## 🔧 Tools & Platforms
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma"/>
+
+</p>
+
+---
+
+# 📚 Currently Learning
+
+```text
+██████████████████████░░░░░░░  HTML            ████████████████████ 100%
+
+██████████████████████░░░░░░░  CSS             ████████████████████ 100%
+
+█████████████████░░░░░░░░░░░░  JavaScript      ███████████████░░░░ 75%
+
+███████████░░░░░░░░░░░░░░░░░░  React           █████████░░░░░░░░░░ 45%
+
+█████░░░░░░░░░░░░░░░░░░░░░░░░  Node.js         ███░░░░░░░░░░░░░░░░ 20%
+
+██░░░░░░░░░░░░░░░░░░░░░░░░░░░  Express.js      █░░░░░░░░░░░░░░░░░░ 10%
+
+██░░░░░░░░░░░░░░░░░░░░░░░░░░░  MongoDB         █░░░░░░░░░░░░░░░░░░ 10%
 ```
 
-I'm a passionate **Computer Science and Engineering student** at Jagannath University with a strong interest in **web development** and **programming**. I enjoy building practical projects, learning new technologies, and helping others grow in their coding journey. My goal is to become a skilled full-stack developer while maintaining strong academic performance.
+---
+
+# 💡 What I'm Working On
+
+- 🌐 Building Responsive Web Applications
+
+- 📚 Learning Full Stack Development
+
+- 🚀 Improving Git & GitHub Skills
+
+- 💻 Building Java Projects
+
+- 🎯 Creating Professional Portfolio
+
+- 🤝 Preparing for Open Source Contribution
 
 ---
 
-## 🛠️ Tech Stack
+# ⭐ Fun Facts
 
-### Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- 💻 First Programming Language → **C**
 
-### Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+- ☕ Favorite Language → **Java**
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+- 🌍 Dream Career → **Software Engineer**
+
+- ❤️ Love Building Real Projects
+
+- 📚 Learning Every Day
+
+- 🎯 Believe in Consistency
 
 ---
 
-## 📈 Current Journey
+---
 
-| Status | Details |
-|--------|---------|
-| 🔭 **Working On** | Building responsive web projects & learning advanced concepts |
-| 🌱 **Learning** | Java, JavaScript, React, Full Stack Development |
-| 👯 **Collaboration** | Open to GitHub collaborations & open-source contributions |
-| 💡 **Teaching** | Mentoring secondary and intermediate level students |
-| 🎯 **Goal** | Become a skilled web developer & build digital solutions |
+# 🚀 Featured Projects
+
+> Here are some of my favorite repositories that showcase my learning journey and development skills.
+
+| ⭐ Project | 📖 Description | 🛠 Tech Stack |
+|-----------|---------------|--------------|
+| [☕ JavaLoops](https://github.com/Minhajul43/JavaLoops) | Java loop examples for beginners with Git workflow practice | Java |
+| [📚 Object Oriented Programming & DSA Library](https://github.com/Minhajul43/Object_Oriented_Programming_and_DSA_Library) | Collection of OOP and Data Structure implementations | C++ |
+| [📊 Excel Expert](https://github.com/Minhajul43/excel-expert) | Excel formulas, charts, pivot tables, and practice materials | Excel |
+| [📡 Data Communication Lab](https://github.com/Minhajul43/data_communication_lab_JnU_CSE) | MATLAB simulations and lab experiments | MATLAB |
+| [⚡ Basic Electronics Lab](https://github.com/Minhajul43/basic_electronics_lab_JnUCSE) | LTSpice circuit simulations and electronics experiments | LTSpice |
+| [💻 C Programming Practice](https://github.com/Minhajul43/structure-language-C-problem) | C programming problems and solutions | C |
 
 ---
 
-## 📊 GitHub Statistics
+# 📈 GitHub Analytics
 
 <div align="center">
-  
-  [![GitHub Profile Views](https://komarev.com/ghpvc/?username=Minhajul43&color=00D9FF&style=flat-square&label=Profile+Views)](https://github.com/Minhajul43)
-  
-</div>
 
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Minhajul43&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<div align="center">
-  
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=Minhajul43&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B00&currStreakNum=58A6FF&sideNums=58A6FF&currStreakLabel=00D9FF&sideLabels=58A6FF&dates=58A6FF)
-  
-</div>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minhajul43&layout=compact&theme=tokyonight&hide_border=true"/>
 
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-  
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Minhajul43)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Minhajul43/)
-  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Minhajul.43)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-  
 </div>
 
 ---
 
----
-
-## 🎓 Education & Development
-
-**Jagannath University, Dhaka**
-- Computer Science & Engineering (CSE)
-- Currently: 2nd Year
-- 🎯 Maintaining strong academic performance
-
-**Programming Hero**
-- Web Development Course
-- Hands-on project-based learning
-
----
-
-## 💡 Quick Facts
-
-- 💻 **First Language**: C
-- 🌟 **Favorite Framework**: React
-- 🎯 **Career Goal**: Full Stack Developer
-- 📖 **Learning Style**: Project-based & Hands-on
-- 🏫 **Passion**: Teaching & Mentoring
-- 🌍 **Location**: Dhaka, Bangladesh
-
----
+# 🔥 GitHub Streak
 
 <div align="center">
-  
-  ### ⭐ If you find my work interesting, consider giving it a star! ⭐
-  
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300">
-  
-  **Let's build something amazing together! 🚀**
-  
+
+<img src="https://streak-stats.demolab.com?user=Minhajul43&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📊 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Minhajul43&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Minhajul43&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+</div>
+
+---
+
+# 📌 Repository Highlights
+
+<div align="center">
+
+<a href="https://github.com/Minhajul43/JavaLoops">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Minhajul43&repo=JavaLoops&theme=tokyonight"/>
+
+</a>
+
+<a href="https://github.com/Minhajul43/Object_Oriented_Programming_and_DSA_Library">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Minhajul43&repo=Object_Oriented_Programming_and_DSA_Library&theme=tokyonight"/>
+
+</a>
+
 </div>
 
 ---
 
 <div align="center">
-  
-  [![GitHub followers](https://img.shields.io/github/followers/Minhajul43?style=social)](https://github.com/Minhajul43)
-  [![GitHub User's stars](https://img.shields.io/github/stars/Minhajul43?style=social)](https://github.com/Minhajul43)
-  
+
+<a href="https://github.com/Minhajul43/data_communication_lab_JnU_CSE">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Minhajul43&repo=data_communication_lab_JnU_CSE&theme=tokyonight"/>
+
+</a>
+
+<a href="https://github.com/Minhajul43/basic_electronics_lab_JnUCSE">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Minhajul43&repo=basic_electronics_lab_JnUCSE&theme=tokyonight"/>
+
+</a>
+
+</div>
+
+---
+
+# 📅 GitHub Activity
+
+```text
+🌱 Currently Learning
+├── Java ☕
+├── JavaScript ⚡
+├── React ⚛️
+├── Git & GitHub 🌿
+└── Node.js 🚀
+
+📌 Current Focus
+├── Full Stack Development
+├── Building Real Projects
+├── Open Source Contribution
+├── Clean Code
+└── Problem Solving
+```
+
+---
+
+# 📊 Profile Summary
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Minhajul43&theme=tokyonight)
+
+</div>
+
+---
+
+# ⚡ Coding Activity
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Minhajul43&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Minhajul43&theme=tokyonight)
+
+</div>
+
+---
+
+# 🎯 Developer Mindset
+
+> 💡 **"First, solve the problem. Then, write the code."**  
+> — John Johnson
+
+> 🚀 **"Learning never exhausts the mind."**  
+> — Leonardo da Vinci
+
+---
+
+---
+
+# 🎓 Education
+
+## 🏫 Jagannath University
+
+**Bachelor of Science (B.Sc.) in Computer Science & Engineering**
+
+📍 Dhaka, Bangladesh
+
+- 🎓 Current Year: 2nd Year
+- 💻 Strong interest in Software Engineering
+- 📚 Focused on Programming, Data Structures, Algorithms, and Web Development
+
+---
+
+## 🚀 Professional Development
+
+### Programming Hero
+
+- 🌐 Complete Web Development Course
+- 💻 Learning by building real-world projects
+- 🚀 Exploring Full Stack Development
+
+---
+
+# 📜 Certifications
+
+> Coming Soon...
+
+- 📌 Web Development Certificate
+- 📌 Java Programming
+- 📌 Git & GitHub
+- 📌 JavaScript
+- 📌 React
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Become a Professional Full Stack Developer
+- ✅ Build 25+ Real World Projects
+- ✅ Contribute to Open Source Projects
+- ✅ Learn React, Node.js & MongoDB
+- ✅ Strengthen Data Structures & Algorithms
+- ✅ Maintain Excellent Academic Performance
+- ✅ Secure a Software Engineering Internship
+- ✅ Build a Professional Portfolio Website
+
+---
+
+# 🗺️ Learning Roadmap
+
+```text
+C Programming               ✅ Completed
+
+C++                         ✅ Completed
+
+Java                        🔄 Learning
+
+HTML                        ✅ Completed
+
+CSS                         ✅ Completed
+
+JavaScript                  🔄 Learning
+
+React                       ⏳ Next
+
+Node.js                     ⏳ Next
+
+Express.js                  ⏳ Next
+
+MongoDB                     ⏳ Next
+
+Full Stack Development      🎯 Goal
+```
+
+---
+
+# 📬 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Minhajul43">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/Minhajul43/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/Minhajul.43">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="mailto:your.email@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+> ⚠️ Replace `your.email@gmail.com` with your real email address.
+
+---
+
+# 💼 Looking For
+
+I'm always interested in:
+
+- 🤝 Open Source Collaboration
+- 💻 Web Development Projects
+- 📚 Learning Opportunities
+- 🚀 Internship Opportunities
+- 🌍 Developer Communities
+
+---
+
+# 💡 Fun Facts
+
+- ☕ Coffee + Code = Productivity
+- 📖 I enjoy learning something new every day.
+- 💻 I love turning ideas into real applications.
+- 🌱 Continuous learning is my biggest strength.
+- 🎯 Small progress every day leads to big success.
+
+---
+
+# ❤️ Support My Work
+
+If you like my projects,
+
+⭐ Star my repositories
+
+🍴 Fork them
+
+👀 Follow my GitHub profile
+
+🤝 Connect with me on LinkedIn
+
+Every bit of support motivates me to build more useful projects.
+
+---
+
+# 💬 Favorite Quotes
+
+> **"Code is like humor. When you have to explain it, it's bad."**
+>
+> — Cory House
+
+<br>
+
+> **"Stay hungry. Stay foolish."**
+>
+> — Steve Jobs
+
+---
+
+# 📈 Visitor Counter
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Minhajul43&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
+
+---
+
+# 🙏 Thank You For Visiting
+
+<div align="center">
+
+### ⭐ Thanks for visiting my GitHub Profile!
+
+If you enjoy my work, don't forget to **Follow** me and ⭐ **Star** my repositories.
+
+Let's learn, build, and grow together! 🚀
+
 </div>
 
 ---
 
 <div align="center">
-  
-  **Made with ❤️ by Minhajul Islam**
-  
-  *Last Updated: 2026*
-  
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+
 </div>
-
-
