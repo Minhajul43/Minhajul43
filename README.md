@@ -1,7 +1,7 @@
 <div align="center">
 <img src="./github-banner.png" alt="Minhajul Islam - GitHub Banner" width="100%">
 </div>
----
+
 # <img src="https://raw.githubusercontent.com/Minhajul43/Minhajul43/main/Wave.gif" width="35px"> Assalamualikum, I'm Minhajul Islam
 
 <div align="center">
